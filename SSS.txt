@@ -1,0 +1,80 @@
+#1
+fondly：
+	Most are fondly remembered.
+plaque:
+	The chimpanzee is buried with a proper plaque at the International Space Hall Of Fame in New Mexico.
+statue:
+	He's heading an effort to fund a statue for Felicette-the first cat in space.
+strut:
+	Felicette brielfy strutted into headline when she took her short flight in 1963.
+intensively:
+	Felicette was chosen from a group of 14 intensively space-trained cats.
+demeanor, sleek, physique:
+	It was either her calm demeanor or sleek physique that made her the winner.
+parachuted:
+	She parachuted back down in a capsule.
+supposedly:
+	She was supposedly sacrificed for study of her brain.
+eligible:
+	Donators are eligible for small prizes such as postcards and tote bags.
+
+#2
+maws, lunge, engulf:
+	Baleen whales feed by opening their gigantic maws, lunging forward in the water and engulfing gallons of seawater in their mouths.
+critter, krill:
+	They strain the seawater back through their baleen plates, trapping vast numbers of tiny critters-fish,krill and others-that then get swallowed all at once.
+rorqual:
+	The species that share this method include what are called the rorqual whales, which include fin whales, sei whales, blue whales and humpback whales.
+expel:
+	They simply open their mouths at the surface and let the seawater flow in, before straining and expelling the seawater through their baleen as usual.
+tread, undulate:
+	The researchers called it tread-water feeding because of the way the whales gently undulate their tails to keep their heads near the surface of the water.
+bob:
+	Tread-water feeding is more energy-efficient than lunge-feeding, since the whales just have to bob their heads near the surface.
+gulf, hypoxic, dissolve, sewage:
+	the upper Gulf of Thailand is hypoxic-there's a serious lack of oxygen dissolved in the water, thanks mostly to sewage that flows into the sea from nearby rivers.
+improvise:
+	Which means that these whales apparently improvised an improved strategy for survival in their polluted habitat.
+calf:
+	Iwata wrote in an e-mail that his team witnessed tread-water feeding most often in adult-calf pairs.
+
+#3
+algorithm:
+	But flies tag incoming odors differently from the way modern search algorithms parse similarity.
+neuron:
+	A small group of neurons makes an initial evaluation of the smell.
+tweak:
+	So Navlakha and his colleagues tweaked computer similarity  search functions to do it fly style.
+pit
+	And then pitted the fly-inspired algorithms against conventional ones.
+endow:
+	Navlakha says he and his team are looking to partner with tech companies now, in hopes of endowing machines with the time-tested problem-solving abilities of the brain.
+
+#4
+postdoctoral
+	Trevor Murray, a postdoctoral researcher at the Australian National University.
+playback， straightaway
+	So they did some playbacks and they could show quite strongly that if you play back these sounds to other birds, they flee straightaway.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
